@@ -1,7 +1,7 @@
 {
-    "name": "flarum-ir/lang-persian",
+	"name": "flarum-ir/lang-persian",
 	"type": "flarum-extension",
-    "description": "Persian language pack.",
+	"description": "Persian language pack.",
 	"homepage": "https://github.com/hamid4star/flarum-ir",
 	"keywords": [
 		"locale",
