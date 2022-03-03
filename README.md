@@ -1,4 +1,3 @@
-# flarum-ir
 ## Installation
 
 ```bash
